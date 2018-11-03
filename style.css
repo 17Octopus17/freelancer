@@ -3,7 +3,6 @@
   margin: auto;
   position: relative;
   padding: 0;
-  
   }
 
 .banner {
@@ -29,18 +28,17 @@ nav li {
   display: inline;
   margin: 0;
   padding: 0 10px;
-  
 }
 
 .red-twitter {
   width: 20px;
 height: 16px;
 }
+
 .red-facebook {
   width: 10px;
   height: 18px;
 }
-
 
 .red-box {
   width: 141px;
@@ -61,7 +59,6 @@ height: 16px;
   line-height: 63.95px;
   padding-top: 25px;
   padding-left: 15px;
-  
 }
 
 .blue-dot {
@@ -84,6 +81,7 @@ h1 {
 .red-dot {
   color: #fa5c65;
 }
+
 h2 {
   width: 700px;
   height: 25px;
@@ -106,6 +104,7 @@ h2 {
   color:#fff;
   background-color: #fa5c65;
 }
+
 .block {
   width: 257px;
   height: 60px;
@@ -149,13 +148,13 @@ h2 {
 
 .more {
   width: 44px;
-height: 10px;
-color: #fa5c65;
-font-family: Montserrat;
-font-size: 14px;
-font-weight: 800;
-line-height: 20px;
-display: inline-block;
+  height: 10px;
+  color: #fa5c65;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 20px;
+  display: inline-block;
   margin-top: 20px;
 }
 
@@ -166,9 +165,9 @@ display: inline-block;
 
 .macbook {
   width: 398px;
-height: 301px;
-right: 200px;
-top: 210px;
+  height: 301px;
+  right: 200px;
+  top: 210px;
 }
 
 .portfolio {
@@ -178,16 +177,16 @@ top: 210px;
 }
 
 .portf {
-height: 30px;
-color: #314a5b;
-font-family: Montserrat;
-font-size: 40px;
-font-weight: 700;
-line-height: 46px;
-letter-spacing: -1.2px;
+  height: 30px;
+  color: #314a5b;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: -1.2px;
 }
 
- .subtitle {
+.subtitle {
   top: 20px;
   bottom: 40px;
   height: 17px;
@@ -196,10 +195,9 @@ letter-spacing: -1.2px;
   font-size: 16px;
   font-weight: 400;
   line-height: 20px;
-  
- }
+}
 
- .text {
+.text {
   top: 40px;
   height: 104px;
   color: #9aa0ab;
@@ -207,50 +205,47 @@ letter-spacing: -1.2px;
   font-size: 15px;
   font-weight: 400;
   line-height: 22px;
- }
+}
 
- .portf-more {
+.portf-more {
   top: 70px;
   right: 225px;
   width: 44px;
-height: 10px;
-color: #f0454c;
-font-family: Montserrat;
-font-size: 14px;
-font-weight: 800;
-line-height: 20px;
+  height: 10px;
+  color: #f0454c;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 20px;
+}
 
- }
-
- .portf-more img {
+.portf-more img {
   top: -20px;
   margin-left: 50px;
 }
-
 
 .team-title {
   top: 100px;
   right: 290px;
   width: 214px;
-height: 24px;
-color: #314a5b;
-font-family: Montserrat;
-font-size: 32px;
-font-weight: 700;
-line-height: 53.86px;
-letter-spacing: -0.48px;
+  height: 24px;
+  color: #314a5b;
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 53.86px;
+  letter-spacing: -0.48px;
 }
 
 .team p {
   top: 130px;
   padding-left: 290px;
-
-height: 17px;
-color: #9aa0ab;
-font-family: "Open Sans";
-font-size: 16px;
-font-weight: 400;
-line-height: 20px;
+  height: 17px;
+  color: #9aa0ab;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
 }
 
 .carts {
@@ -281,7 +276,6 @@ line-height: 20px;
 }
 
 .job {
-  
   height: 15px;
   color: #f0454c;
   font-family: "Open Sans";
@@ -305,14 +299,15 @@ line-height: 20px;
   float:right;
   margin-bottom: 10px;
   width: 44px;
-height: 10px;
-color: #f0454c;
-font-family: Montserrat;
-font-size: 14px;
-font-weight: 800;
-line-height: 20px;
-padding-top: 20px;
+  height: 10px;
+  color: #f0454c;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 20px;
+  padding-top: 20px;
 }
+
 .div-more img {
   top: -20px;
   margin-left: 50px;
@@ -324,7 +319,6 @@ padding-top: 20px;
   position: absolute;
   left: 270px;
   margin-top: 70px;
-  
 }
 
 .icons {  
@@ -333,11 +327,11 @@ padding-top: 20px;
   left: 270px;
   float: left;
   margin-bottom: 50px;
-  
 }
+
 .list-icons {
-    display: inline-block;
-    margin-right: 15px;
+  display: inline-block;
+  margin-right: 15px;
 }
 
 .copyright {
